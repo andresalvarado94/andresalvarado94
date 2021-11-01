@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andresalvarado94
-- 👀 I’m interested in  apernder todo lo relacionado con desarrollo de software.. .
-- 🌱 I’m currently learning .PHP, PYTHON, NODEJS...
+- 👀 I’m interested in  lerarning all about promgraming systems and  to develope Apps
+- Skills -> HTML, CSS, JS , FRAMEWORKS(BOOTSTRAP)
+- 🌱 I’m currently learning .PHP, PYTHON, NODEJS.
 - 📫 How to reach me =>  WEBSITESBULDER2020@GMAIL.COM  |  PIPEANDRES1294@GMAIL.COM
 
 <!---
